@@ -1,7 +1,9 @@
 # EyeOfTheCrane
-Hack a hydraulic crane to automagically align to walls for Techfest Munich 2018
+Hack a hydraulic crane to automagically align to walls.
 
 Winner of [Hawe](https://www.hawe.com) Track, 2nd place overall at [Techfest Munich](https://techfestmunich.com/) 2018
+
+For the full pitch and video of the autonomous crane, please check out our [YouTube Video](https://youtu.be/kxZJJPO-Mgc)!
 
 ## Idea
 **Problem**:  
